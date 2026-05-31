@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=czczczczczczczczczcz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=czczczczczczczczczcz&theme=tokyonight" alt="github stats" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=czczczczczczczczczcz&theme=tokyonight&hide_border=true" alt="streak stats" />
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czczczczczczczczczcz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=czczczczczczczczczcz&theme=tokyonight" alt="top languages" />
 
 </div>
 
